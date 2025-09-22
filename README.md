@@ -15,7 +15,6 @@ Each item is intentionally safe, contains explanatory comments, and highlights i
 
 ## Quick Start
 1. Read this README and the comments at the top of each file.
-2. Unzip the archive and `cd` into the folder.
 3. Run Python examples locally, e.g.:
    ```bash
    python3 01_hashing.py
